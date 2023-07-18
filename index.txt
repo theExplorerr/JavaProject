@@ -1,0 +1,16 @@
+1) What is JAVA?
+Answer: Java is a high-level programming language and is platform-independent.
+
+2) What are the features of JAVA?
+Answer: Features of Java are as follows:
+Object-oriented
+Inheritance
+Encapsulation
+Polymorphism
+Abstraction
+
+3) Name the Java IDE’s?
+Answer: Eclipse and NetBeans are the IDE’s of JAVA.
+
+4) How does Java enable high performance?
+Answer: Java uses Just In Time compiler to enable high performance. It is used to convert the instructions into bytecodes.
